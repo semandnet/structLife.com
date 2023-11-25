@@ -1,1 +1,1 @@
-const challengeData=[{name:"#EarlyEdgeChallenge2024",date:"November 25, 2023",body:"Coming soon... The rules and structure of #EarlyEdgeChallenge2024 will be posted here.",link:"/challenge-2023-11-25-EarlyEdgeChallenge2024-rules"}];export default challengeData;
+const challengeData=[{name:"#EarlyEdgeChallenge2024",date:"November 25, 2023",body:"Coming soon... The rules and structure of #EarlyEdgeChallenge2024 will be posted here.",link:"/challenge-2023-11-25-earlyedgechallenge2024-rules"}];export default challengeData;
