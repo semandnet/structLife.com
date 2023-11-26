@@ -2,7 +2,7 @@
 
 #### Last Updated: November 22, 2023
 
-![Alt text](../images/products/about-2023-11-22-health-and-legacy-84-hours-per-week-each.png)
+![Diagram from structLife.com illustrating the balance between Health and Legacy in life. Health encompasses Sleep, Exercise, Nutrition, and Self-care, while Legacy includes Work, Household & Family, Projects, and Learning. The concepts are enclosed in overlapping blue ovals, symbolizing the interconnected nature of Health and Legacy in one's Life.](../images/products/about-2023-11-22-health-and-legacy-84-hours-per-week-each.png)
 
 The core principle of this concept is to equally divide weekly time between Health, which keeps you alive, and your duties that shape your Legacy.
 

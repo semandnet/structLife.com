@@ -2,7 +2,7 @@
 
 #### Last Updated: November 22, 2023
 
-![Alt text](../images/products/about-2023-11-22-welcome-to-structlife-health-and-legacy-balance.png)
+![A 3D perspective image from structLife.com, showing a detailed structured schedule for balancing 'Health' with 'Legacy' activities. The 'Health' column includes items like exercise and nutrition, with images depicting healthy food and a workout, while the 'Legacy' section includes work and learning, with related professional and educational activities.](../images/products/about-2023-11-22-welcome-to-structlife-health-and-legacy-balance.png)
 
 Hi, I'm Semand. Welcome to my structLife blog where I advocate for a structured lifestyle empowered by science and practical considerations. The main question I delve into is: How can we balance Health and Legacy activities to ensure a healthy life while leaving a meaningful impact?
 

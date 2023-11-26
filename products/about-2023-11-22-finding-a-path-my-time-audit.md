@@ -2,7 +2,7 @@
 
 #### Last Updated: November 22, 2023
 
-![Alt text](../images/products/about-2023-11-22-finding-a-path-my-time-audit.png)
+![An infographic showing the core areas of expertise and interests of a professional from structLife.com, including Engineering Management, MSc in Bioinformatics, Hobbies in Lifestyle Management, Quantified Self, and Web Development, and fundamental skills: Communication, Habit Formation, Research Literacy, all laid out in a structured diagram.](../images/products/about-2023-11-22-finding-a-path-my-time-audit.png)
 
 *"We are what we repeatedly do. Excellence, then, is not an act, but a habit."* - Aristotle
 
