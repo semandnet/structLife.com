@@ -1,4 +1,4 @@
-#  \#2 Cold Shower vs. Ice Bath  
+#  \#1 Cold Shower vs. Ice Bath  
 
 #### Last Updated: November 25, 2023
 
