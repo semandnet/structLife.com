@@ -3,8 +3,10 @@
 <html>
 <body>
   <script>
-    sessionStorage.redirect = location.href;
-    location.href = '/';
+    var l = window.location;
+    document.location.href = l.protocol + '//' + l.host + '/?' + 
+                             l.pathname.slice(1) + l.search + l.hash;
   </script>
 </body>
 </html>
+
