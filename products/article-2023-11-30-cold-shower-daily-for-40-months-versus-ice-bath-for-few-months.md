@@ -22,6 +22,6 @@ Switching from daily cold showers to ice baths after high-intensity exercises ha
 Malta ES, Lopes VHF, Esco MR, Zagatto AM. "Repeated cold-water immersion improves autonomic cardiac modulation following five sessions of high-intensity interval exercise." *Eur J Appl Physiol.* 2023 Sep;123(9):1939-1948. doi: [10.1007/s00421-023-05205-4](https://doi.org/10.1007/s00421-023-05205-4). Epub 2023 Apr 27. PMID: 37103570.
 
 
-##### [Disclaimer](/#/about-disclaimer)  [Privacy](/#/about-privacy-policy)  [Terms&Conditions](/#/about-terms-conditions)
+##### [Disclaimer](/about-disclaimer)  [Privacy](/about-privacy-policy)  [Terms&Conditions](/about-terms-conditions)
 
 ###### © 2023 structLife.com. All rights reserved.

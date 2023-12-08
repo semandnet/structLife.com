@@ -11,6 +11,6 @@ To sum it up, the heart rate should be variable and able to accelerate and decel
 Have you checked your HRV lately, and what does it say about your stress and recovery levels? 
 
 
-##### [Disclaimer](/#/about-disclaimer)  [Privacy](/#/about-privacy-policy)  [Terms&Conditions](/#/about-terms-conditions)
+##### [Disclaimer](/about-disclaimer)  [Privacy](/about-privacy-policy)  [Terms&Conditions](/about-terms-conditions)
 
 ###### © 2023 structLife.com. All rights reserved.

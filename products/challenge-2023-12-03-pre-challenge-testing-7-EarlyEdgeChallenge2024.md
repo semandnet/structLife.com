@@ -13,6 +13,6 @@ FROM TODAY'S LISTENING: "Humans are not rational", Brand Seduction by Daryl Webe
 Overall it went OK.
 
 
-##### [Disclaimer](/#/about-disclaimer)  [Privacy](/#/about-privacy-policy)  [Terms&Conditions](/#/about-terms-conditions)
+##### [Disclaimer](/about-disclaimer)  [Privacy](/about-privacy-policy)  [Terms&Conditions](/about-terms-conditions)
 
 ###### © 2023 structLife.com. All rights reserved.

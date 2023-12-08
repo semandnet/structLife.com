@@ -29,6 +29,6 @@ I will be updating this post with exact details of each activity over time.
 
 This routine is my current routine, but achieving >95% is challenging, as many obstacles will stay in my way, such as weather conditions, injuries, family and work commitments.  
 
-##### [Disclaimer](/#/about-disclaimer)  [Privacy](/#/about-privacy-policy)  [Terms&Conditions](/#/about-terms-conditions)
+##### [Disclaimer](/about-disclaimer)  [Privacy](/about-privacy-policy)  [Terms&Conditions](/about-terms-conditions)
 
 ###### © 2023 structLife.com. All rights reserved.

@@ -9,6 +9,6 @@ The first 0-8 hours after waking. Your brain and body are more action and focus 
 It’s easier to overcome limbic friction. Note: We are also more prone to distraction and reflexive multitasking at this time. Don’t succumb to that. - Dr. Andrew Huberman
 
 
-##### [Disclaimer](/#/about-disclaimer)  [Privacy](/#/about-privacy-policy)  [Terms&Conditions](/#/about-terms-conditions)
+##### [Disclaimer](/about-disclaimer)  [Privacy](/about-privacy-policy)  [Terms&Conditions](/about-terms-conditions)
 
 ###### © 2023 structLife.com. All rights reserved.

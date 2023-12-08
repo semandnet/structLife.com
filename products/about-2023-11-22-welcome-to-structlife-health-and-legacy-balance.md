@@ -8,7 +8,7 @@ Hi, I'm Semand. Welcome to my structLife blog where I advocate for a structured 
 
 In other words, I want to help people make informed choices for structuring and controlling their own lifestyles. Because if you don't control your lifestyle (your habits), inevitably, someone else will. Just like a well-planned grocery list can prevent impulsive purchases, effectively structuring our daily activities helps us avoid distractions and stay focused on our health and legacy.
 
-For an intro into my core concept, explore [Health & Legacy: 84h/w Each](/#/about-2023-11-22-health-and-legacy-84-hours-per-week-each)
+For an intro into my core concept, explore [Health & Legacy: 84h/w Each](/about-2023-11-22-health-and-legacy-84-hours-per-week-each)
 
 Here is my backstory...
 
@@ -23,9 +23,9 @@ But the journey doesn't end there as more new research gives us more to learn as
 That's why I invite you to join me on this journey. Let’s connect and inspire each other towards greater well-being and impactful legacies.
 
 
-Here's a link to my background: [Finding a Path: My Time Audit](/#/about-2023-11-22-finding-a-path-my-time-audit)
+Here's a link to my background: [Finding a Path: My Time Audit](/about-2023-11-22-finding-a-path-my-time-audit)
 
 
-##### [Disclaimer](/#/about-disclaimer)  [Privacy](/#/about-privacy-policy)  [Terms&Conditions](/#/about-terms-conditions)
+##### [Disclaimer](/about-disclaimer)  [Privacy](/about-privacy-policy)  [Terms&Conditions](/about-terms-conditions)
 
 ###### © 2023 structLife.com. All rights reserved.

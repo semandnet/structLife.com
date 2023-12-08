@@ -23,6 +23,6 @@ By examining my professional activities, education background, and numerous hobb
 These skills paved my way to the best shape of my entire life, according to health metrics I've tracked over the years. For myself, creating my 84h/84h Health vs Legacy balance structure using these three skills, became a game-changer. That's why I've chosen to focus my blog on this niche: Balancing Health and Legacy in Midlife.
 
 
-##### [Disclaimer](/#/about-disclaimer)  [Privacy](/#/about-privacy-policy)  [Terms&Conditions](/#/about-terms-conditions)
+##### [Disclaimer](/about-disclaimer)  [Privacy](/about-privacy-policy)  [Terms&Conditions](/about-terms-conditions)
 
 ###### © 2023 structLife.com. All rights reserved.

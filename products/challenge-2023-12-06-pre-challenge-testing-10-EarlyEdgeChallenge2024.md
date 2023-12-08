@@ -10,6 +10,6 @@ After 40 months of consistent cold showers, I made the switch to ice baths. Not 
 Changing water once a week is cheaper than using 7 cold showers, each lasting 11 minutes.
 
 
-##### [Disclaimer](/#/about-disclaimer)  [Privacy](/#/about-privacy-policy)  [Terms&Conditions](/#/about-terms-conditions)
+##### [Disclaimer](/about-disclaimer)  [Privacy](/about-privacy-policy)  [Terms&Conditions](/about-terms-conditions)
 
 ###### © 2023 structLife.com. All rights reserved.
