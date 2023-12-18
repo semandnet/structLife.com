@@ -2,7 +2,7 @@
 
 #### Last Updated: November 28, 2023
 
-![Infographic from structLife.com for a 2024 daily morning routine challenge in blogger's 50th year - EarlyEdgeChallenge2024. Includes Wim Hof breathing, dog walking, exercise, ice bath, running, and cooking, aiming for 95% over 366 days.](../images/products/challenge-2023-11-25-EarlyEdgeChallenge2024.png)
+![Infographic from structLife.com for a 2024 daily morning routine challenge in blogger's 50th year - EarlyEdgeChallenge2024. Includes Wim Hof breathing, dog walking, exercise, ice bath, running, and cooking, aiming for 95% over 366 days.](../images/products/about-2023-11-25-EarlyEdgeChallenge2024.png)
 
 The early morning hours are the most valuable hours due to the body's biochemistry boost, the lowest distraction level, and the control people have over these hours. 
 
