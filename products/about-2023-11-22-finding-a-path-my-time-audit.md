@@ -13,7 +13,7 @@ As we age and perhaps approach significant milestones, like the 50th year of lif
 
 By examining my professional activities, educational background, and numerous hobbies over many years, I tried to identify the activities that still make it into my weekly schedule and those that are fading away. In essence, I spend most of my spare time on communication in various languages and forms, research literacy, and habit formation.
 
-These skills paved my way to the best shape of my entire life, according to health metrics I've tracked over the years. For myself, creating my 84h/84h Health vs Legacy balance framework using these three skills, became a game-changer. That's why I've chosen to focus my blog on Data-Driven Self-Management and Balancing Health-Legacy.
+These skills paved my way to the best shape of my entire life, according to health metrics I've tracked over the years. For myself, creating my 84h/84h Health vs Legacy balance framework using these three skills, became a game-changer. That's why I've chosen to focus my blog on Data-Driven Self-Management and Balancing Health-Legacy using Machine Learning.
 
 
 ##### [Disclaimer](/about-disclaimer)  [Privacy](/about-privacy-policy)  [Terms&Conditions](/about-terms-conditions)

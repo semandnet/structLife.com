@@ -1,8 +1,8 @@
-#  \#1 Cold Shower vs Ice Bath  
+# Cold Shower vs Ice Bath  
 
 #### Last Updated: November 30, 2023
 
-![Infographic comparing Ice Bath and Cold Shower. The top half shows an ice cube background with text 'ICE BATH' and 'higher levels of stress are associated with lower HRV'. A graph indicates an increase in Heart Rate Variability (HRV) average per month, from 48 ms in June 2023 after cold showers to 71 ms in November 2023 post ice baths. The bottom half has a shower background with 'COLD SHOWER' text, beneath which is a daily schedule starting with 'WH Breath' at 2:55 am and ending with 'Cook & Eat' at 5:30 am. The website 'structLife.com' and hashtag '#EarlyEdgeChallenge2024' are mentioned.](../images/products/post-2023-11-30-cold-shower-daily-for-40-months-versus-ice-bath-for-few-months.png)
+![Infographic comparing Ice Bath and Cold Shower. The top half shows an ice cube background with text 'ICE BATH' and 'higher levels of stress are associated with lower HRV'. A graph indicates an increase in Heart Rate Variability (HRV) average per month, from 48 ms in June 2023 after cold showers to 71 ms in November 2023 post ice baths. The bottom half has a shower background with 'COLD SHOWER' text, beneath which is a daily schedule starting with 'WH Breath' at 2:55 am and ending with 'Cook & Eat' at 5:30 am. The website 'structLife.com' and hashtag '#EarlyEdgeChallenge2024' are mentioned.](../images/products/about-2023-11-30-cold-shower-daily-for-40-months-versus-ice-bath-for-few-months.png)
 
 
 After 40 months of consistent cold showers, I made the switch to ice baths. This change resulted in a noticeable improvement in my Heart Rate Variability (HRV), a key indicator of cardiovascular health and resilience.

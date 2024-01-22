@@ -1,8 +1,8 @@
-# \#3 Health-Legacy vs Work-Life
+# Health-Legacy vs Work-Life
 
 #### Last Updated: December 15, 2023
 
-![](../images/products/post-2023-12-15-health-legacy-balance-versus-work-life-balance.png)
+![](../images/products/about-2023-12-15-health-legacy-balance-versus-work-life-balance.png)
 
 The core principle of Health-Legacy balance framework is to equally divide weekly time between Health-related activities, which keep you alive, and your duties that shape your Legacy. This framework prioritizes Health by making it a superset. 
 
