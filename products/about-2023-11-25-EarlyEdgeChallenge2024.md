@@ -1,4 +1,4 @@
-# \#EarlyEdge Challenge2024
+# My Morning Challenge2024
 
 #### Last Updated: November 28, 2023
 
@@ -6,9 +6,9 @@
 
 The early morning hours are the most valuable hours due to the body's biochemistry boost, the lowest distraction level, and the control people have over these hours. 
 
-**In my 50th year**, I’m starting my personal morning routine **#EarlyEdgeChallenge2024**, aiming to complete the routine **more than 95% of 366 days**.   
+**In my 50th year**, I’m starting my personal morning routine **Challenge2024**, aiming to complete the routine **more than 95% of 366 days**.   
 
-Since I have a job, that means that for most days I will **get up at 3:00 am or earlier**. 
+For most days I will **get up at 3:00 am or earlier**. 
 
 By completing the following 6 activities each morning, I will target leveraging and boosting my biochemical state even more: 
 

@@ -1,4 +1,4 @@
-# Predicting Calcium Binding Motifs 2008
+# Predicting Calcium Binding Motifs (Machine Learning in 2007-2008)
 
 #### Last Updated: December 25, 2023
 
